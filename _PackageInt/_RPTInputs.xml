@@ -1,0 +1,13 @@
+<RPTInputs>
+	<RPTInput Path="c:\users\marc\projects\flight-simulator\scenery\kosh-airventure-msfs2024\PackageDefinitions\tabletopandroid-airport-kosh-oshkosh\ContentInfo\Thumbnail.jpg">
+		<Package Name="tabletopandroid-airport-kosh-oshkosh">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="c:\users\marc\projects\flight-simulator\scenery\kosh-airventure-msfs2024\PackageSources\Scenery\airport-kosh-oshkosh\scenery\KOSH.xml">
+		<Package Name="tabletopandroid-airport-kosh-oshkosh">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</RPTInput>
+</RPTInputs>
+

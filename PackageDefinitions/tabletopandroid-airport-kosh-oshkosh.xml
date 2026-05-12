@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>EAA Airventure Oshkosh</Title>
+		<Manufacturer/>
+		<Creator>tabletop ANDROID</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<PackageOrderHint>CUSTOM_AIRPORT</PackageOrderHint>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-kosh-oshkosh\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\tabletopandroid-airport-kosh-oshkosh</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type Version="0">Airport</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-kosh-oshkosh\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-kosh-oshkosh\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

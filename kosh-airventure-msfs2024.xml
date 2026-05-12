@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Version="2" Name="kosh-airventure-msfs2024" FolderName="Packages" MetadataFolderName="PackagesMetadata">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\tabletopandroid-airport-kosh-oshkosh.xml</Package>
+	</Packages>
+	<PublishingGroups/>
+</Project>
+

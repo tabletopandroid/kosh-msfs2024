@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<SceneryObject displayName="Purple Lot" parentGroupID="4" groupIndex="4" lat="43.96786308011174" lon="-88.57853984782066" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking carsHeading="1.570796" isRectangle="FALSE">
+			<Vertex lat="43.96881080000466" lon="-88.57743551448779"/>
+			<Vertex lat="43.96863387907961" lon="-88.57792465779573"/>
+			<Vertex lat="43.96838548403204" lon="-88.57844650330297"/>
+			<Vertex lat="43.96804392268235" lon="-88.57870563916251"/>
+			<Vertex lat="43.96788063997473" lon="-88.57910537481385"/>
+			<Vertex lat="43.96786277276525" lon="-88.57956324777446"/>
+			<Vertex lat="43.96788370118784" lon="-88.57978079977568"/>
+			<Vertex lat="43.96784696406174" lon="-88.58002098028003"/>
+			<Vertex lat="43.96694166845207" lon="-88.58002628091577"/>
+			<Vertex lat="43.96690856033099" lon="-88.57755562356733"/>
+			<Vertex lat="43.96719642167023" lon="-88.57755452003218"/>
+			<Vertex lat="43.96721591429949" lon="-88.57744887866997"/>
+		</CarParking>
+	</SceneryObject>
+	<SceneryObject displayName="S Lot" parentGroupID="3" lat="43.97603668832080" lon="-88.58124194846671" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking carsHeading="0.000000" isRectangle="FALSE">
+			<Vertex lat="43.97652058242739" lon="-88.58183839258858"/>
+			<Vertex lat="43.97588637243179" lon="-88.58188225744381"/>
+			<Vertex lat="43.97585169734194" lon="-88.58129899669512"/>
+			<Vertex lat="43.97573129971561" lon="-88.58129687475370"/>
+			<Vertex lat="43.97572228079968" lon="-88.58057417091908"/>
+			<Vertex lat="43.97650789720836" lon="-88.58056099839992"/>
+		</CarParking>
+	</SceneryObject>
+	<SceneryObject displayName="Gray Lot" parentGroupID="4" groupIndex="2" lat="43.97925542554085" lon="-88.57916499341347" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking carsHeading="0.000000" isRectangle="FALSE">
+			<Vertex lat="43.98075600280834" lon="-88.57665940781996"/>
+			<Vertex lat="43.98077056685680" lon="-88.57806334278402"/>
+			<Vertex lat="43.98058151431449" lon="-88.57886241087688"/>
+			<Vertex lat="43.98038892381474" lon="-88.57924772441744"/>
+			<Vertex lat="43.97990922543114" lon="-88.57961836216438"/>
+			<Vertex lat="43.97967316239799" lon="-88.57994550597465"/>
+			<Vertex lat="43.97953282356308" lon="-88.58034773729980"/>
+			<Vertex lat="43.97951241545277" lon="-88.58177211071697"/>
+			<Vertex lat="43.97808625975939" lon="-88.58177744852539"/>
+			<Vertex lat="43.97802915552716" lon="-88.57953972953707"/>
+			<Vertex lat="43.97822143082026" lon="-88.57906937321272"/>
+			<Vertex lat="43.97822325884866" lon="-88.57864778441494"/>
+			<Vertex lat="43.97794808969193" lon="-88.57806052823982"/>
+			<Vertex lat="43.97794312828523" lon="-88.57669844180465"/>
+		</CarParking>
+	</SceneryObject>
+	<SceneryObject displayName="Brown Lot" parentGroupID="4" groupIndex="1" lat="43.98481956699815" lon="-88.58120130196059" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking carsHeading="0.000000" isRectangle="FALSE">
+			<Vertex lat="43.98717331808572" lon="-88.58039380303508"/>
+			<Vertex lat="43.98715756496552" lon="-88.58094475487806"/>
+			<Vertex lat="43.98655664169612" lon="-88.58099928260258"/>
+			<Vertex lat="43.98573964873885" lon="-88.58164956169307"/>
+			<Vertex lat="43.98543884728586" lon="-88.58170961579708"/>
+			<Vertex lat="43.98531703278173" lon="-88.58174901919737"/>
+			<Vertex lat="43.98515468959052" lon="-88.58210443437670"/>
+			<Vertex lat="43.98269709211982" lon="-88.58219621372881"/>
+			<Vertex lat="43.98267551407000" lon="-88.58115790658707"/>
+			<Vertex lat="43.98293593406591" lon="-88.58067014879508"/>
+			<Vertex lat="43.98322024991592" lon="-88.58044377876976"/>
+			<Vertex lat="43.98376827066190" lon="-88.58039710406651"/>
+		</CarParking>
+	</SceneryObject>
+	<SceneryObject displayName="Pink Lot" parentGroupID="4" lat="43.98823619357125" lon="-88.58079080264413" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking carsHeading="0.000000" isRectangle="FALSE">
+			<Vertex lat="43.98886181885385" lon="-88.57968487140862"/>
+			<Vertex lat="43.98891448387992" lon="-88.58134483593450"/>
+			<Vertex lat="43.98858884519279" lon="-88.58154411752345"/>
+			<Vertex lat="43.98844781364091" lon="-88.58152535434657"/>
+			<Vertex lat="43.98832306681591" lon="-88.58146506323051"/>
+			<Vertex lat="43.98779320813493" lon="-88.58117492943612"/>
+			<Vertex lat="43.98775653521451" lon="-88.58103150133660"/>
+			<Vertex lat="43.98783415505000" lon="-88.58087957956133"/>
+			<Vertex lat="43.98769643205194" lon="-88.58047581737496"/>
+			<Vertex lat="43.98788378856371" lon="-88.58029578033113"/>
+			<Vertex lat="43.98820839733850" lon="-88.58012170546633"/>
+			<Vertex lat="43.98852577811816" lon="-88.57994607577950"/>
+		</CarParking>
+	</SceneryObject>
+	<SceneryObject displayName="Yellow Lot" parentGroupID="4" groupIndex="3" lat="43.98824146578723" lon="-88.57804287069906" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking carsHeading="5.532694" isRectangle="FALSE">
+			<Vertex lat="43.98888274830206" lon="-88.57869157148914"/>
+			<Vertex lat="43.98838304383985" lon="-88.57926246284373"/>
+			<Vertex lat="43.98731596209618" lon="-88.57776198752721"/>
+			<Vertex lat="43.98779544033851" lon="-88.57727721581780"/>
+			<Vertex lat="43.98883013435952" lon="-88.57722111581747"/>
+		</CarParking>
+	</SceneryObject>
+	<Group displayName="Parking" groupIndex="1" groupID="2" groupGenerated="FALSE"/>
+	<Group displayName="Permit Only Lots" parentGroupID="2" groupIndex="1" groupID="3" groupGenerated="FALSE"/>
+	<Group displayName="Public Lots" parentGroupID="2" groupID="4" groupGenerated="FALSE"/>
+	<Airport displayName="Wittman Regional Airport" groupID="1" groupGenerated="FALSE" name="Wittman Regional Airport" ident="KOSH" lat="43.99311147630215" lon="-88.55480924248695" alt="236.65800476074219" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+		<AirportArchetype archetypeGUID="{466CE878-A0B6-41CB-AC9E-0D85795755F2}"/>
+		<Tower parentGroupID="1" lat="43.98772382044796" lon="-88.55950615907497" alt="235.64440917968750">
+			<!--SceneryObject name: Gen_Airport_Tower01-->
+			<SceneryObject lat="43.98772382044796" lon="-88.55950615907497" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<LowResAltitude/>
+				<LibraryObject name="{634B83BB-96A9-453D-8452-938F9804DE4F}" scale="1.000000"/>
+			</SceneryObject>
+		</Tower>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+
