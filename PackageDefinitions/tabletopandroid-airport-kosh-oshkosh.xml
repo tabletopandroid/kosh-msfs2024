@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="0.1.0">
+<AssetPackage ReleaseNotes="PackageDefinitions\tabletopandroid-airport-kosh-oshkosh\ReleaseNotes.xml" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>EAA Airventure Oshkosh</Title>
@@ -11,14 +11,8 @@
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<Dependencies>
-		<Dependency Version="4.0.0">
-			<Name>totof-aircraft-library v4</Name>
-		</Dependency>
-		<Dependency Version="0.1.0">
-			<Name>totof-helicopter-libraryv2</Name>
-		</Dependency>
-		<Dependency Version="2.0.0">
-			<Name>aircraft-collectorv2</Name>
+		<Dependency Version="25.9.2">
+			<Name>esd-modellib-eolib</Name>
 		</Dependency>
 	</Dependencies>
 	<PackageOrderHint>CUSTOM_AIRPORT</PackageOrderHint>
