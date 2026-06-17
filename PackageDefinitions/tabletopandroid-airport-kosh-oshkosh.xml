@@ -17,6 +17,12 @@
 		<Dependency Version="4.0.0">
 			<Name>totof-aircraft-library v4</Name>
 		</Dependency>
+		<Dependency Version="1.0.3">
+			<Name>microsoft-modellib-airport-glider</Name>
+		</Dependency>
+		<Dependency Version="2.0.0">
+			<Name>aircraft-collectorv2</Name>
+		</Dependency>
 	</Dependencies>
 	<PackageOrderHint>CUSTOM_AIRPORT</PackageOrderHint>
 	<AssetGroups>
@@ -25,7 +31,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-kosh-oshkosh\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-kosh-oshkosh\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\tabletopandroid-airport-kosh-oshkosh\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
